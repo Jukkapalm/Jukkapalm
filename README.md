@@ -30,5 +30,5 @@ Tieto- ja viestintätekniikan opiskelija | Tulossa data-analysoinnin harjoittelu
 
 ## Missä löydät minut
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jukkapalm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jukkapalm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jukkapekka.com)
