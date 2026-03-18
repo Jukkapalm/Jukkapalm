@@ -22,7 +22,7 @@ Tieto- ja viestintätekniikan opiskelija | Tulossa data-analysoinnin harjoittelu
 | Projekti | Kuvaus | Teknologiat |
 |---|---|---|
 | [GHOST.SYS](https://github.com/Jukkapalm/ghost-sys) | Reaaliaikainen palvelinmonitorointi dashboard | Python, FastAPI, SQLite, JS |
-| [NEXUS](https://github.com/Jukkapalm/nexus) | Data-analysointi dashboard Excel ja CSV tiedostoille | Python, Flask, Pandas, JS |
+| [Nexus Analysis System](https://github.com/Jukkapalm/nexus-data-analysis-system) | Data-analysointi dashboard Excel ja CSV tiedostoille | Python, Flask, Pandas, JS |
 | [Galactic RM](https://github.com/Jukkapalm/Galactic-RM) | Galaktinen resurssienhallintasimulaatio | Python, Streamlit, NumPy |
 | [Portfolio](https://github.com/Jukkapalm/portfolio) | AI-teemainen portfolio-sivusto | HTML, CSS, JS |
 
