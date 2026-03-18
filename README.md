@@ -1,16 +1,34 @@
-## Hi there 👋
+## Moi, olen Jukka 👋
 
-<!--
-**Jukkapalm/Jukkapalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tieto- ja viestintätekniikan opiskelija | Tulossa data-analysoinnin harjoitteluun | Etsin ensimmäistä kehittäjäpositiota
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknologiat
+
+**Kielet**
+`Python` `JavaScript` `C#` `PHP` `HTML` `CSS`
+
+**Kirjastot & Frameworkit**
+`Flask` `FastAPI` `Pandas` `NumPy` `Streamlit` `Chart.js` `Bootstrap`
+
+**Tietokannat**
+`SQLite` `MySQL`
+
+---
+
+## Projektit
+
+| Projekti | Kuvaus | Teknologiat |
+|---|---|---|
+| [GHOST.SYS](https://github.com/Jukkapalm/ghost-sys) | Reaaliaikainen palvelinmonitorointi dashboard | Python, FastAPI, SQLite, JS |
+| [NEXUS](https://github.com/Jukkapalm/nexus) | Data-analysointi dashboard Excel ja CSV tiedostoille | Python, Flask, Pandas, JS |
+| [Galactic RM](https://github.com/Jukkapalm/Galactic-RM) | Galaktinen resurssienhallintasimulaatio | Python, Streamlit, NumPy |
+| [Portfolio](https://github.com/Jukkapalm/portfolio) | AI-teemainen portfolio-sivusto | HTML, CSS, JS |
+
+---
+
+## Missä löydät minut
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jukkapalm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jukkapekka.com)
